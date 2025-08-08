@@ -9,7 +9,7 @@ Well anyways, here is my stats card:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan951236&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects I work on:
-[Peggle Roguelike Preset Generator](https://github.com/Ivan951236/PeggleRoguelikeGUI)]
+[Peggle Roguelike Preset Generator](https://github.com/Ivan951236/PeggleRoguelikeGUI)
 
 Well other than that one Arch Linux related script, that's it
 
