@@ -22,8 +22,6 @@ And for this page, that's it
 ## My Brain's Library
 Programming Languages: C++, Lua, Python
 
-National Languages: English, Russian
-
 Design & Multimedia: VLC (Linux) & Media Player Classic w/ K-Lite Mega Codec Pack (Windows), paint.net (Windows) & Krita (Linux)
 
 And that's all that is notable in a GitHub README.md
