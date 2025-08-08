@@ -21,14 +21,18 @@ Well other than that one Arch Linux related script, that's it
 And for this page, that's it
 ## My Brain's Library
 Programming Languages: C++, Lua, Python
+
 National Languages: English, Russian
+
 Design & Multimedia: VLC (Linux) & Media Player Classic w/ K-Lite Mega Codec Pack (Windows), paint.net (Windows) & Krita (Linux)
 
 And that's all that is notable in a GitHub README.md
 
 ## Contacting Info
 Telegram: @Ivanyanulev
+
 Contacting Email (not my personal): ivanyanulevich@bk.ru
+
 Reddit: [Stock_Taro6145](https://www.reddit.com/user/Stock_Taro6145/)
 
 Thank you for reading this README.md from Ivan951236/Ivan951236 repository, I hope you have a ~~wonderfull~~ rotten day
