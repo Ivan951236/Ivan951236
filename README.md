@@ -29,7 +29,7 @@ And that's all that is notable in a GitHub README.md
 ## Contacting Info
 Telegram: @Ivanyanulev
 
-Contacting Email (not my personal): ivanyanulevich@bk.ru
+Contacting Email (not my personal): vbroking@bk.ru
 
 Reddit: [Stock_Taro6145](https://www.reddit.com/user/Stock_Taro6145/)
 
