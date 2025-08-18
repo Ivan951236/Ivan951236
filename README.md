@@ -3,7 +3,6 @@ So what brings you to the profile? There might be some reasons:
 1. Curiousity
 2. You wanted to look for some projects you might want to use
 3. You come from revisto/drum-machine repository for some reason
-4. You wanted to fact check that I do indeed know languages
 
 Well anyways, here is my stats card:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan951236&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
