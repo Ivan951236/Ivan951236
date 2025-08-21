@@ -12,12 +12,6 @@ Well anyways, here is my stats card:
 
 Well other than that one Arch Linux related script, that's it
 
-## Favorite Linux Exclusive Programs:
-[Drum Machine by Alireza Shabani (Revisto)](https://github.com/Revisto/drum-machine)
-[ProtonPlus from Flatpak](https://flathub.org/apps/com.vysp3r.ProtonPlus)
-[Ultimate Tic Tac Toe from Flatpak](https://flathub.org/apps/io.github.nokse22.ultimate-tic-tac-toe)
-
-And for this page, that's it
 ## My Brain's Library
 Programming Languages: C++, Lua, Python
 
