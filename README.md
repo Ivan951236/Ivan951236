@@ -7,8 +7,12 @@ So what brings you to the profile? There might be some reasons:
 Well anyways, here is my stats card:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan951236&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects I work on:
+## Projects I work on (or package bundles that i am building):
 [Peggle Roguelike Preset Generator](https://github.com/Ivan951236/PeggleRoguelikeGUI)
+
+[Package Bundles for in use with UniGetUI and/or powershell](https://github.com/Ivan951236/Package_Bundles)
+
+[and its beta](https://github.com/Ivan951236/Package_Bundles_test)
 
 Well other than that one Arch Linux related script, that's it
 
