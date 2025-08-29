@@ -15,7 +15,7 @@ Well anyways, here is my stats card:
 
 [and its beta](https://github.com/Ivan951236/Package_Bundles_test)
 
-[Ubuntu Fonts Caxton Minecraft Resource Pack](https://github.com/Ivan951236/Minecraft-UbuntuFonts-Caxton)
+[Kucaxttgeyes](https://github.com/Ivan951236/Kucaxttgeyes)
 
 Well other than that one Arch Linux related script, that's it
 
