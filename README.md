@@ -9,7 +9,6 @@ Well anyways, here is my stats card:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan951236&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects I work on (or package bundles that i am building):
-[NEW: IvyOS, an Arch Linux based distro](https://github.com/Ivan951236/IvyOS)
 
 [Peggle Roguelike Preset Generator](https://github.com/Ivan951236/PeggleRoguelikeGUI)
 
