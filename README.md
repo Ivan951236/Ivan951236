@@ -15,8 +15,6 @@ Well anyways, here is my stats card:
 
 [Package Bundles for in use with UniGetUI and/or powershell](https://github.com/Ivan951236/Package_Bundles)
 
-[and its beta](https://github.com/Ivan951236/Package_Bundles_test)
-
 [Kucaxttgeyes](https://github.com/Ivan951236/Kucaxttgeyes)
 
 Well other than that one Arch Linux related script, that's it
