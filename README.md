@@ -30,6 +30,4 @@ Telegram: @Ivanyanulev
 
 Contacting Email (not my personal): vbroking@bk.ru
 
-Reddit: [Stock_Taro6145](https://www.reddit.com/user/Stock_Taro6145/)
-
 Thank you for reading this README.md from Ivan951236/Ivan951236 repository, I hope you [have a ~~wonderfull~~ rotten day](https://www.mariowiki.com/Wario)
