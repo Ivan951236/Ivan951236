@@ -26,8 +26,10 @@ Design & Multimedia: VLC (Linux) & Media Player Classic w/ K-Lite Mega Codec Pac
 And that's all that is notable in a GitHub README.md
 
 ## My Sora Videos
+
 The Sora Videos is a scannable QR Code to the Telegram Group:
 ![TG Group](/qr_tmp.jpg)
+
 ## Contacting Info
 Telegram: @Ivanyanulev
 
