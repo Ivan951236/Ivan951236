@@ -31,7 +31,10 @@ The Sora Videos is a scannable QR Code to the Telegram Group:
 ![TG Group](/qr_tmp.jpg)
 
 ## Contacting Info
+
 Telegram: @Ivanyanulev
+
+Discord: @ivan951236
 
 Contacting Email (not my personal): vbroking@bk.ru
 
