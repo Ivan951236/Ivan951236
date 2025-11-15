@@ -16,8 +16,6 @@ Well anyways, here is my stats card:
 
 [Kucaxttgeyes](https://github.com/Ivan951236/Kucaxttgeyes)
 
-Well other than that one Arch Linux related script, that's it
-
 ## My Brain's Library
 Programming Languages: C++, Lua, Python
 
