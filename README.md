@@ -4,13 +4,13 @@ So what brings you to the profile? There might be some reasons:
 2. You wanted to look for some projects you might want to use
 3. You come from revisto/drum-machine repository for some reason
 
-## Projects I work on (or package bundles that i am building):
+## Projects I work on:
 
 [Peggle Roguelike Preset Generator](https://github.com/Ivan951236/PeggleRoguelikeGUI)
 
-[Package Bundles for in use with UniGetUI and/or powershell](https://github.com/Ivan951236/Package_Bundles)
-
 [Kucaxttgeyes](https://github.com/Ivan951236/Kucaxttgeyes)
+
+[ZielonyOS](https://github.com/Ivan951236/ZielonyOS)
 
 ## My Brain's Library
 Programming Languages: C++, Lua, Python
