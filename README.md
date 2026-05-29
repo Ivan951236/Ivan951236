@@ -25,6 +25,6 @@ Telegram: @Ivanyanulev
 
 Discord: @ivan951236
 
-Contacting Email (not my personal): vbroking@bk.ru
+Contacting Email: vbroking@bk.ru
 
 Thank you for reading this README.md from Ivan951236/Ivan951236 repository, I hope you [have a ~~wonderfull~~ rotten day](https://www.mariowiki.com/Wario)
