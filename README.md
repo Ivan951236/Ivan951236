@@ -1,8 +1,7 @@
 ## Hi there 👋
 So what brings you to the profile? There might be some reasons:
 1. Curiousity
-2. You wanted to look for some projects you might want to use
-3. You come from revisto/drum-machine repository for some reason
+2. You wanted to look for some projects you might want to use.
 
 ## Projects I work on:
 
